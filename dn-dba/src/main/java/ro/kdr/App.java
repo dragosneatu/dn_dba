@@ -1,4 +1,4 @@
-package dn.dn_dba;
+package ro.kdr;
 
 /**
  * Hello world!

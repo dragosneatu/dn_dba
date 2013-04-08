@@ -1,4 +1,4 @@
-package dn.dn_dba;
+package ro.kdr;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
