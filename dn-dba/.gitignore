@@ -2,3 +2,8 @@
 /.settings
 /.classpath
 /.project
+/db
+/dbtest.h2.db
+/dbtest.trace.db
+/repository.h2.db
+/repository.trace.db
